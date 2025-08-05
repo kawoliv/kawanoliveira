@@ -11,8 +11,8 @@ Sou da Salvador, BA, e estou cursando Computação. Sou movido por curiosidade e
 
 ## 🔧 Tecnologias e Habilidades
 - **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React  
-- **Versionamento:** Git e GitHub, com aprendizado prático em repositórios como `aula‑git` e `hello‑world` :contentReference[oaicite:1]{index=1}  
-- **Projetos pessoais e acadêmicos:** Estruturo soluções lógicas e aplico boas práticas em exercícios e mini‑projetos :contentReference[oaicite:2]{index=2}  
+- **Versionamento:** Git e GitHub, com aprendizado prático em repositórios como `aula‑git` e `hello‑world`  
+- **Projetos pessoais e acadêmicos:** Estruturo soluções lógicas e aplico boas práticas em exercícios e mini‑projetos
 
 ---
 
@@ -20,8 +20,9 @@ Sou da Salvador, BA, e estou cursando Computação. Sou movido por curiosidade e
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| **projeto‑navbar** | HTML, CSS, JS | Exemplos de navegação responsiva com implementação de menus interativos :contentReference[oaicite:3]{index=3} |
-| **cadastro-de-alunos-e-notas** | HTML, JavaScript | Sistema simples de cadastro e cálculos de notas, com validações e interface prática :contentReference[oaicite:4]{index=4} |
+| **Pagina de Cadastro-Usuário** | React, HTML, CSS , JS | Página simples de cadastro de usuário contendo: nome, idade, email, endereço com consumo de API e banco de dados |
+| **Portfólio Pessoal** | HTML, CSS | Página web usada como portfólio pessoal, la poderá ser encontrados meus projetos finalizados e em andamento |
+| **GreenBoxing** | HTML, CSS | Landing Page criada como projeto acadêmico para apresentação de uma familia de APPS criada com Figma, HTML e CSS |
 
 ---
 
