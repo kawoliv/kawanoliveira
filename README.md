@@ -1,11 +1,11 @@
 # 👋 Olá! Eu sou o **Kaw** (Kawan Oliveira)
 
-**Estudante de Computação | Apaixonado por Programação | Crescimento Contínuo**
+**Estudante de Ciências da Computação | Apaixonado por Programação | Crescimento Contínuo**
 
 ---
 
 ## 🚀 Sobre mim
-Sou da Salvador, BA, e estou cursando Computação. Sou movido por curiosidade e dedicação — desenvolvo cada projeto com vontade de aprender e evoluir a cada linha de código.
+Sou da Salvador, BA, e estou cursando Ciências da Computação na Unifacs, atualmente no 6 semestre. Sou movido por curiosidade e dedicação — desenvolvo cada projeto com vontade de aprender e evoluir a cada linha de código.
 
 ---
 
